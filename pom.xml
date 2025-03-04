@@ -20,7 +20,7 @@
         <maven-failsafe-plugin.version>3.0.0-M7</maven-failsafe-plugin.version>
         <kotlin.version>1.8.0</kotlin.version>
 
-        <spring-boot.version>3.0.2</spring-boot.version>
+        <spring-boot.version>3.4.3</spring-boot.version>
 
         <jacoco-maven-plugin.version>0.8.8</jacoco-maven-plugin.version>
         <omni-coveragereporter-maven-plugin.version>0.3.1</omni-coveragereporter-maven-plugin.version>
@@ -30,7 +30,7 @@
         <hazelcast.version>5.2.1</hazelcast.version>
         <mockk.version>1.13.2</mockk.version>
         <kotest.version>5.5.4</kotest.version>
-        <springmockk.version>4.0.0</springmockk.version>
+        <springmockk.version>4.0.2</springmockk.version>
     </properties>
 
     <dependencyManagement>
